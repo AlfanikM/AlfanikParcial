@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PrimerParcialAlfanik
+namespace PrimerParcialAlfanik.UI.Consulta
 {
-    public partial class Form1 : Form
+    public partial class ConsultaProducto : Form
     {
-        public Form1()
+        public ConsultaProducto()
         {
             InitializeComponent();
         }
