@@ -1,0 +1,54 @@
+C:\Users\elias\source\repos\PrimerParcialAlfanik\PrimerParcialAlfanik\bin\Debug\PrimerParcialAlfanik.exe.config
+C:\Users\elias\source\repos\PrimerParcialAlfanik\PrimerParcialAlfanik\bin\Debug\PrimerParcialAlfanik.exe
+C:\Users\elias\source\repos\PrimerParcialAlfanik\PrimerParcialAlfanik\bin\Debug\PrimerParcialAlfanik.pdb
+C:\Users\elias\source\repos\PrimerParcialAlfanik\PrimerParcialAlfanik\bin\Debug\EntityFramework.dll
+C:\Users\elias\source\repos\PrimerParcialAlfanik\PrimerParcialAlfanik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\elias\source\repos\PrimerParcialAlfanik\PrimerParcialAlfanik\bin\Debug\EntityFramework.xml
+C:\Users\elias\source\repos\PrimerParcialAlfanik\PrimerParcialAlfanik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\elias\source\repos\PrimerParcialAlfanik\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.csprojResolveAssemblyReference.cache
+C:\Users\elias\source\repos\PrimerParcialAlfanik\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.Properties.Resources.resources
+C:\Users\elias\source\repos\PrimerParcialAlfanik\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.csproj.GenerateResource.cache
+C:\Users\elias\source\repos\PrimerParcialAlfanik\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\PrimerParcialAlfanik\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.csproj.CopyComplete
+C:\Users\elias\source\repos\PrimerParcialAlfanik\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.exe
+C:\Users\elias\source\repos\PrimerParcialAlfanik\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.pdb
+C:\Users\elias\source\repos\PrimerParcialAlfanik\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.Principal.resources
+C:\Users\elias\source\repos\PrimerParcialAlfanik\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.UI.Registro.RegistroProducto.resources
+C:\Users\elias\source\repos\PrimerParcialAlfanik\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.UI.Consulta.ConsultaProducto.resources
+C:\Users\Laboratorio E\Desktop\PrimerParcialAlfanik2\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.csprojAssemblyReference.cache
+C:\Users\Laboratorio E\Desktop\PrimerParcialAlfanik2\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.BLL.RegistroUbicacion.resources
+C:\Users\Laboratorio E\Desktop\PrimerParcialAlfanik2\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.Principal.resources
+C:\Users\Laboratorio E\Desktop\PrimerParcialAlfanik2\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.Properties.Resources.resources
+C:\Users\Laboratorio E\Desktop\PrimerParcialAlfanik2\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.UI.Consulta.ConsultaProducto.resources
+C:\Users\Laboratorio E\Desktop\PrimerParcialAlfanik2\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.UI.Registro.RegistroProducto.resources
+C:\Users\Laboratorio E\Desktop\PrimerParcialAlfanik2\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.csproj.GenerateResource.cache
+C:\Users\Laboratorio E\Desktop\PrimerParcialAlfanik2\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio E\Desktop\PrimerParcialAlfanik2\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.exe
+C:\Users\Laboratorio E\Desktop\PrimerParcialAlfanik2\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.pdb
+C:\Users\Laboratorio E\Desktop\PrimerParcialAlfanik2\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.UI.Registro.Registro_de_ubicaciones.resources
+F:\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.csprojAssemblyReference.cache
+F:\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.Principal.resources
+F:\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.Properties.Resources.resources
+F:\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.UI.Consulta.ConsultaProducto.resources
+F:\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.UI.Registro.Registro_de_ubicaciones.resources
+F:\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.UI.Registro.RegistroProducto.resources
+F:\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.csproj.GenerateResource.cache
+F:\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.csproj.CoreCompileInputs.cache
+F:\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.exe
+F:\PrimerParcialAlfanik\obj\Debug\PrimerParcialAlfanik.pdb
+D:\Parcial1AlfanikSolucionado\bin\Debug\PrimerParcialAlfanik.exe.config
+D:\Parcial1AlfanikSolucionado\bin\Debug\PrimerParcialAlfanik.exe
+D:\Parcial1AlfanikSolucionado\bin\Debug\PrimerParcialAlfanik.pdb
+D:\Parcial1AlfanikSolucionado\bin\Debug\EntityFramework.xml
+D:\Parcial1AlfanikSolucionado\bin\Debug\EntityFramework.SqlServer.xml
+D:\Parcial1AlfanikSolucionado\obj\Debug\PrimerParcialAlfanik.csprojAssemblyReference.cache
+D:\Parcial1AlfanikSolucionado\obj\Debug\PrimerParcialAlfanik.Principal.resources
+D:\Parcial1AlfanikSolucionado\obj\Debug\PrimerParcialAlfanik.Properties.Resources.resources
+D:\Parcial1AlfanikSolucionado\obj\Debug\PrimerParcialAlfanik.UI.Registro.Registro_de_ubicaciones.resources
+D:\Parcial1AlfanikSolucionado\obj\Debug\PrimerParcialAlfanik.UI.Consulta.ConsultaProducto.resources
+D:\Parcial1AlfanikSolucionado\obj\Debug\PrimerParcialAlfanik.UI.Registro.RegistroProducto.resources
+D:\Parcial1AlfanikSolucionado\obj\Debug\PrimerParcialAlfanik.csproj.GenerateResource.cache
+D:\Parcial1AlfanikSolucionado\obj\Debug\PrimerParcialAlfanik.csproj.CoreCompileInputs.cache
+D:\Parcial1AlfanikSolucionado\obj\Debug\PrimerParcialAlfanik.csproj.CopyComplete
+D:\Parcial1AlfanikSolucionado\obj\Debug\PrimerParcialAlfanik.exe
+D:\Parcial1AlfanikSolucionado\obj\Debug\PrimerParcialAlfanik.pdb
